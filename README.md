@@ -1,7 +1,6 @@
 # Getting Started with Create React App
 
-##DEMO VIDEO LINK --> 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7167994346993045505" height="1389" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+## DEMO VIDEO LINK --> https://www.linkedin.com/posts/meetwithabhi_ticketjet-traintickets-lastminutebooking-activity-7167994534516256768-wiuA?utm_source=share&utm_medium=member_desktop
 
 ## Available Scripts
 
